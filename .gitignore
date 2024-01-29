@@ -5,4 +5,8 @@
 .idea/codeStyles/codeStyleConfig.xml
 .idea/cjpalmer330.github.io.iml
 node_modules
+<<<<<<< Updated upstream
 build\static\
+=======
+build/static/
+>>>>>>> Stashed changes
