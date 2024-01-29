@@ -1,7 +1,6 @@
 import React from 'react'
 import githubLogo from './pictures/github-mark-white.svg';
 import linkedInLogo from './pictures/linkedIn.svg';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Link } from "react-router-dom";
 
 export default function SocialBar(){
@@ -58,7 +57,7 @@ export default function SocialBar(){
               className="pt-2 pb-2 pl-4 pr-4 border rounded-xl"
               to="/Projects"
               >
-                Completed Projects
+                Personal Projects
               </Link>
             </li>
             <li className='inline-block mt-2 mb-2 mr-4 ml-4 w-full'>

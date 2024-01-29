@@ -1,5 +1,6 @@
 import Projects from './Pages/Projects';
 import AboutThis from './Pages/AboutThis';
+import GoodreadsClone from './Pages/GoodreadsClone'
 import NotFoundPage from './Pages/NotFoundPage'
 import { Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home';
@@ -14,6 +15,7 @@ function App() {
       <Route path="/Projects" element={<Projects />}/>
       <Route path="/Projects/PersonalWebsite" element={<AboutThis />}/>
       <Route path="/Projects/FlightPlanner" element={<FlightPlanner />}/>
+      <Route path="/Projects/GoodreadsClone" element={<GoodreadsClone />}/>
       <Route path="/*" element={<NotFoundPage />} />
     </Routes>
   );

@@ -43,10 +43,14 @@ export default function Projects() {
           </Link>
           <Link
             className="pt-2 pb-2 pl-4 pr-4 border shadow-2xl shadow-slate-200/40 rounded-3xl hover:shadow-slate-400/50 hover:shadow-xl hover:scale-105 transition-all duration-300"
+            to="/Projects/GoodreadsClone"
           >
             <h3 className="text-3xl font-bold text-fuchsia-200">
-              blah blah
+              Goodreads Clone
             </h3>
+            <h1>
+              This is still work in progress, however it is showing great potential. The idea of the site came to me as I enjoy reading in my free time, and wish that I had a place like goodreads which allowed me to track all the books I read, but actually displayed some stats about those books. I wanted to be able to see the genres I read the most, or the page length of books over the year. And So starting over Thanksgiving break I began work on my clone!
+            </h1>
           </Link>
         </div>
       </body>
