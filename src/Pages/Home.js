@@ -12,7 +12,6 @@ export default function Home(){
           <div className="shadow-2xl shadow-slate-200/40 rounded-3xl p-12">
             <h3 className='font-mono text-white font-bold text-center text-2xl'> Welcome to my Website!</h3>
             <h3 className="text-xl">
-<<<<<<< Updated upstream
               What started as a way to spend my free time over Thanksgiving break, has turned into this landing page for you to learn more about who I am! Click around and you might be surprised by what you find!
             </h3>
           </div>
@@ -20,17 +19,6 @@ export default function Home(){
             <h3 className='font-mono text-white font-bold text-center text-2xl'>Sample Text</h3>
             <h3 className="text-xl">
               This is some sample text
-=======
-              Take a look around
-            </h3>
-          </div>
-          <div className='font-mono text-white font-bold text-xl flex justify-center'>
-          </div>
-          <div className="shadow-2xl shadow-slate-200/40 rounded-3xl p-12">
-            <h3 className='font-mono text-white font-bold text-center text-2xl'>Sample Header</h3>
-            <h3 className="text-xl">
-              Sample Text
->>>>>>> Stashed changes
             </h3>
           </div>
           <div>
